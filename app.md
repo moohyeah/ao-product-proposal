@@ -50,4 +50,6 @@ https://app.ardrive.io/#/drives/078a3e9f-5028-48bb-9531-0aae3c23f48b/folders/2d4
 [permaweb](https://cookbook.arweave.dev/zh/concepts/permawebApplications.html)
 
 # 所需资源（可选）
-所需要的研发资源，项目预算等。
+项目预算: 10000u
+
+permaweb 相关资源
